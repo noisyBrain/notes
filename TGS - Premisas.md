@@ -1,0 +1,3 @@
+- **Los sistemas existen dentro de otros sistemas**: cada sistema existe dentro de otro más grande.
+- **Los sistemas son [[Sistemas - Tipos#^89392e | abiertos]]**: todos los sistemas (exceptuando el menor y el mayor), interactúan con su entorno (otros sistemas) y se caracterizan por un proceso de intercambio infinito con ellos.
+- **Las funciones de un sistema dependen de su estructura**: esto, para los sistemas biológicos, es algo intuitivo. Por ejemplo, los tejidos musculares se contraen porque están construidos por una estructura celular que permite contracciones.

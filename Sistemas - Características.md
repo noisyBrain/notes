@@ -1,0 +1,3 @@
+- Todos los elementos tienen un **objetivo en común**
+- **Globalismo/Holismo**: todo cambio en un elemento del sistema, o parte de él, tiene consecuencias en el resto del mismo.
+- Entropía, homeostasis, adaptabilidad y sinergia son[[TGS - Conceptos básicos | conceptos básicos]] de la TGS
