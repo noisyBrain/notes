@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8bfe3b0f2f508e55",
+        "id": "3a380120b30f64da",
         "type": "tabs",
         "children": [
           {
-            "id": "2877df7810b0de43",
+            "id": "bc88d3625ead4a41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas - Definición.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas - Definición.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas - Definición.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistemas - Definición.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2877df7810b0de43",
+  "active": "bc88d3625ead4a41",
   "lastOpenFiles": [
+    "TGS - Objetivos.md",
+    "Para atomizar - Hernán 04-01-24.md",
     "Sistemas - Características.md",
+    "Sistemas de Control - Definición.md",
+    "2024-01-03.md",
+    "TGS - Premisas.md",
+    "Sistemas - Sus elementos.md",
+    "TGS - Definición.md",
+    "Sistemas - Definición.md",
     "TGS - Conceptos básicos.md",
-    "Sistemas - Definición.md"
+    "Sistemas - Tipos.md"
   ]
 }
