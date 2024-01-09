@@ -2,5 +2,6 @@
 - **Homeostasis**: 
 - **Adaptabilidad**: 
 - **Sinergia**: 
+- **Subsistema**: sistema que es parte de un sistema más grande. Los sistemas, a su vez, están/pueden estar compuestos por otros sistemas. En este orden, se diferencian *subsistemas*, *sistema* y *suprasistemas* ^cfcd1f
 
 También, forman parte de los conceptos básicos de la **TGS** los [[Sistemas - Sus elementos | elementos]] de los sistemas
